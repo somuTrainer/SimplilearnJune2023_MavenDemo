@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-01T14:00:20 IST" name="Default suite" finished-at="2023-08-01T14:01:13 IST" duration-ms="52208">
+    <groups>
+    </groups>
+    <test started-at="2023-08-01T14:00:20 IST" name="Default test" finished-at="2023-08-01T14:01:13 IST" duration-ms="52208">
+      <class name="tests.ScrollPageWithTestNG">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.ScrollPageWithTestNG@1e1a0406]" started-at="2023-08-01T14:00:21 IST" name="beforeMethod" finished-at="2023-08-01T14:01:03 IST" duration-ms="42003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test2()[pri:3, instance:tests.ScrollPageWithTestNG@1e1a0406]" started-at="2023-08-01T14:01:03 IST" name="test2" finished-at="2023-08-01T14:01:05 IST" duration-ms="2522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.ScrollPageWithTestNG@1e1a0406]" started-at="2023-08-01T14:01:05 IST" name="afterMethod" finished-at="2023-08-01T14:01:13 IST" duration-ms="7524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.ScrollPageWithTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
